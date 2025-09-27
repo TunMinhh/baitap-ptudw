@@ -1,0 +1,18 @@
+.box { padding: 16px; border: 1px solid #ccc; margin-bottom: 16px; }
+    .clear { clear: both; }
+
+    /* CSS gioi thieu bản thân */
+#gioi-thieu { background-color: #F3FDE8;}
+    
+#lien-he { background-image: url("https://encrypted-.gstatic.com/images?q=https://img.freepik.com/free-psd/transparent-background-image-blank-canvas-creativity_191095-80818.jpg?semt=ais_hybrid&w=740&q=80:ANd9GcQ3Zdo-A3LOaIDh7busB21gtGP2L-vGjhleew&s://img.freepik.com/free-vector/watercolor-soft-earth-tones-background_23-2151155668.jpg?semt=ais_hybrid&w=740&q=80");
+               background-repeat: repeat;}
+
+h1, h2, h3, h4 { font-size: 24px; -webkit-text-stroke: 1px black; color: #000;}  
+    
+table, th, td { border: 1px solid black; border-collapse: collapse; } 
+    
+th, td { padding: 8px; text-align: center; }
+
+nav, footer { background-color: #d4f2f4; color: #0b0848; padding: 10px; text-align: center; } 
+
+nav a { color: #0b0848; text-decoration: none; margin: 0 10px; font-weight: bold; }
